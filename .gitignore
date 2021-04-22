@@ -1,0 +1,8 @@
+# Node artifact files
+node_modules/
+.dist/
+
+# JetBrains IDE
+.idea/
+
+package-lock.json
