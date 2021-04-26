@@ -37,7 +37,7 @@ export const ruLang: LangDefinition = {
             },
             [CardType.CONTRIBUTION]: {
                 title: 'Вклад',
-                description: 'я буду видеть результаты своей работы и знать, что многие пользуется тем, что я сделал'
+                description: 'я буду видеть результаты своей работы и знать, что многие пользуются тем, что я сделал'
             },
             [CardType.CREATIVENESS]: {
                 title: 'Творчество',
@@ -48,7 +48,7 @@ export const ruLang: LangDefinition = {
                 description: 'я смогу стать примером для остальных и люди будут тянуться ко мне и тому уровню, что у меня есть'
             },
             [CardType.FEEDBACK]: {
-                title: 'Фидбек',
+                title: 'Фидбэк',
                 description: 'я буду получать отзывы о моей работе на удобной для меня основе'
             },
             [CardType.LEADER]: {
